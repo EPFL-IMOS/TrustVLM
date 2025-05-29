@@ -1,0 +1,7 @@
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.1
+transformers==4.50.0
+sklearn==1.5.0
