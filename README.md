@@ -16,7 +16,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/abs/2505." target='_blank'>arXiv 2025</a> •
+        • <a href="https://arxiv.org/abs/2505.23745" target='_blank'>arXiv 2025</a> •
     </h4>
 </div>
 
@@ -56,13 +56,13 @@ bash ./test_trustvlm_v2.sh
 ```
 
 ## Citation
-If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2505.):
+If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2505.23745):
 
 ```
 @article{dong2025trustvlm,
     title={To Trust Or Not To Trust Your Vision-Language Model's Prediction},
     author={Dong, Hao and Liu, Moru and Liang, Jian and Chatzi, Eleni and Fink, Olga},
-    journal={arXiv preprint arXiv:2505.},
+    journal={arXiv preprint arXiv:2505.23745},
     year={2025}
 }
 ```
