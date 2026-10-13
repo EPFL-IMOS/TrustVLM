@@ -6,17 +6,17 @@
     <a href='https://sites.google.com/view/dong-hao/' target='_blank'>Hao Dong</a><sup>1</sup>&emsp;
     <a href='https://www.linkedin.com/in/moru-liu-a124a5246' target='_blank'>Moru Liu</a><sup>2</sup>&emsp;
     <a href='https://liangjian.xyz/' target='_blank'>Jian Liang</a><sup>3,4</sup>&emsp;
-    <a href='https://chatzi.ibk.ethz.ch/about-us/people/prof-dr-eleni-chatzi.html' target='_blank'>Eleni Chatzi</a><sup>1</sup>&emsp;
-    <a href='https://people.epfl.ch/olga.fink?lang=en' target='_blank'>Olga Fink</a><sup>5</sup>
+    <a href='https://chatzi.ibk.ethz.ch/about-us/people/prof-dr-eleni-chatzi.html' target='_blank'>Eleni Chatzi</a><sup>5</sup>&emsp;
+    <a href='https://people.epfl.ch/olga.fink?lang=en' target='_blank'>Olga Fink</a><sup>6</sup>
 </div>
 <div>
-    <sup>1</sup>ETH Zurich, <sup>2</sup>Technical University of Munich, <sup>3</sup>NLPR & MAIS, IInstitute of Automation, Chinese Academy of Sciences, <sup>4</sup>University of Chinese Academy of Sciences, <sup>5</sup>EPFL
+    <sup>1</sup>ELLIS Institute Finland and Tampere University, <sup>2</sup>Technical University of Munich, <sup>3</sup>NLPR & MAIS, Institute of Automation, Chinese Academy of Sciences, <sup>4</sup>University of Chinese Academy of Sciences, <sup>5</sup>ETH Zurich, <sup>5</sup>EPFL
 </div>
 
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/abs/2505.23745" target='_blank'>arXiv 2025</a> •
+        • <a href="https://arxiv.org/abs/2505.23745" target='_blank'>TMLR 2026</a> •
     </h4>
 </div>
 
